@@ -28,11 +28,11 @@
 // }
 // greet("GANAGA");
 
-// function greet(name) {
-//     console.log(`Hello, ${name}!`);
-// }
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
 
-// greet("Mg Mg");
+greet("Mg Mg");
 
 // const greet = name => console.log(`Hello, ${name}!`);
 
