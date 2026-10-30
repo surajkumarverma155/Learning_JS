@@ -6,13 +6,13 @@
 // sayhello();
 
 //function with parameter
-// function sum(num1, num2) {
-//     let resultt = num1 + num2;
-//     return resultt;
-// }
+function sum(num1, num2) {
+    let resultt = num1 + num2;
+    return resultt;
+}
 
-// let resultt = sum(5, 10);
-// console.log(resultt);
+let resultt = sum(5, 10);
+console.log(resultt);
 
 // const sum = (num1, num2) => {
 //     return num1 + num2;
