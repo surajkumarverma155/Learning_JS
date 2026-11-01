@@ -6,13 +6,13 @@
 // sayhello();
 
 //function with parameter
-function sum(num1, num2) {
-    let resultt = num1 + num2;
-    return resultt;
-}
+// function sum(num1, num2) {
+//     let resultt = num1 + num2;
+//     return resultt;
+// }
 
-let resultt = sum(5, 10);
-console.log(resultt);
+// let resultt = sum(5, 10);
+// console.log(resultt);
 
 // const sum = (num1, num2) => {
 //     return num1 + num2;
@@ -28,11 +28,11 @@ console.log(resultt);
 // }
 // greet("GANAGA");
 
-function greet(name) {
-    console.log(`Hello, ${name}!`);
-}
+// function greet(name) {
+//     console.log(`Hello, ${name}!`);
+// }
 
-greet("Mg Mg");
+// greet("Mg Mg");
 
 // const greet = name => console.log(`Hello, ${name}!`);
 
@@ -65,16 +65,16 @@ greet("Mg Mg");
 // console.log(Math.max(3, 7, 2));
 // console.log(Math.min(3, 5, 6, 7, 8));
 
-const names = ["Aung", "Kyaw", "Min"];
-console.log(names);
-names.unshift("Mg");//at the start of the array
-console.log(names);
-names.push("Linn");//at the last of the array
-console.log(names);
-names.pop();//remove fromm last
-console.log(names);
-names.shift();//remove from the start
-console.log(names);
+// const names = ["Aung", "Kyaw", "Min"];
+// console.log(names);
+// names.unshift("Mg");//at the start of the array
+// console.log(names);
+// names.push("Linn");//at the last of the array
+// console.log(names);
+// names.pop();//remove fromm last
+// console.log(names);
+// names.shift();//remove from the start
+// console.log(names);
 
-names[0] = "Mg";//add or change data randomly
-console.log(names);
+// names[0] = "Mg";//add or change data randomly
+// console.log(names);
